@@ -13,5 +13,5 @@ hell git
 hell git
 hell git
 hell git
-hell git
+hell git master test
 hell git
